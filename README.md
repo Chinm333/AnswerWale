@@ -18,7 +18,7 @@ This is a secure and scalable backend service built on Node.js and Express.js fo
 
 1. Clone the repository:
 
-   git clone https://github.com/chinm333/answerai.git
+   git clone https://github.com/Chinm333/answerAi.git
    cd answer-ai-backend
 2. npm i 
 3. nodemon index
